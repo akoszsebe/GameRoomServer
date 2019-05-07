@@ -6,8 +6,8 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": "8.6.0",
-    "npm": "8.6.0"
+    "node": "10.14.0",
+    "npm": "10.14.0"
   },
   "private": true,
   "dependencies": {
