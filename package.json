@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": "10.14.0",
+    "node": "10.14.1",
     "npm": "10.14.0"
   },
   "private": true,
